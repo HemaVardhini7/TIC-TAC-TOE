@@ -3,4 +3,4 @@
 This a Tic Tac Toe Game
 
 ## Project Preview
-![Preview](images/Interface.png)
+![Project Preview](images/Interface.png)
